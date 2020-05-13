@@ -2,7 +2,7 @@
 title: Über Mich
 date: 2020-05-12T22:00:00+00:00
 description: zu meiner Person
-author_image: images/about/author.jpg
+author_image: "/images/IMG_3405.JPG"
 author_signature: images/about/signature.png
 
 ---
